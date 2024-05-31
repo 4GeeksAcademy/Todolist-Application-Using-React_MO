@@ -22,7 +22,7 @@ const Home = () => {
     return (
         <div>
             <div className="container">
-                <h1 className="text-center mt-5">My ALLS ITEMS</h1>
+                <h1 className="text-center mt-5">My todos</h1>
                 <ul className="list-group">
                     <li className="list-group-item">
                         <div className="input-group">
